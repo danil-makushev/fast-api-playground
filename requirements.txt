@@ -1,0 +1,14 @@
+anyio @ file:///home/conda/feedstock_root/build_artifacts/anyio_1660053721269/work/dist
+autopep8==2.0.1
+click @ file:///D:/bld/click_1651215332191/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1655412516417/work
+fastapi @ file:///home/conda/feedstock_root/build_artifacts/fastapi_1657839512429/work
+h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1652727116927/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+pycodestyle==2.10.0
+pydantic @ file:///D:/bld/pydantic_1660286629691/work
+sniffio @ file:///D:/bld/sniffio_1648819361572/work
+starlette @ file:///home/conda/feedstock_root/build_artifacts/starlette-recipe_1650649298613/work
+tomli==2.0.1
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1656706066251/work
+uvicorn @ file:///D:/bld/uvicorn-split_1659305913368/work
